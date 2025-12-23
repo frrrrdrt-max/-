@@ -1,0 +1,20 @@
+
+export const FOLIAGE_COUNT = 15000;
+export const ORNAMENT_COUNT = 400;
+export const TREE_HEIGHT = 8;
+export const TREE_RADIUS = 3.5;
+
+export const LUXURY_PALETTE = {
+  GOLD: '#D4AF37',
+  EMERALD: '#043927',
+  RUBY: '#9B111E',
+  SAPPHIRE: '#0F52BA',
+  WHITE_GOLD: '#F5F5DC',
+};
+
+export const COLORS = [
+  LUXURY_PALETTE.GOLD,
+  LUXURY_PALETTE.RUBY,
+  LUXURY_PALETTE.SAPPHIRE,
+  LUXURY_PALETTE.WHITE_GOLD
+];
